@@ -1,0 +1,13 @@
+Class: Customer
+
+Attributes:
+customer_name (String)
+payment_type (String)
+loyalty_discount (boolean)
+customer_tip (float)
+
+Methods:
+payment (determine how the customer is paying for service)
+loyalty (determine if customer are frequent diners and provide discounts)
+tips (determine employee's tip off of customer's payment (grand total subtract subtotal))
+customer_food_credit (determine customer food credit based of of customer name in system)
