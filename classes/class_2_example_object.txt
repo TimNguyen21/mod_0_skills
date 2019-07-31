@@ -1,0 +1,15 @@
+Food: Lil Ollie's Lemon Chicken
+
+Attributes:
+food_name (Lemon Chicken)
+food_type (fried)
+gluten (true)
+price (15.95)
+food_size (medium)
+food_tax (1.90)
+
+Methods:
+total_price (17.85)
+price_of_entree (15.95)
+gluten_free (no)
+hot_or_cold_entree (hot)
