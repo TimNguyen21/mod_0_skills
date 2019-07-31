@@ -1,7 +1,7 @@
 Food: Lil Ollie's Lemon Chicken
 
 Attributes:
-food_name (Lemon Chicken)
+food_name (lemon chicken)
 food_type (fried)
 gluten (true)
 price (15.95)
