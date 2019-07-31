@@ -1,0 +1,13 @@
+Customer: John Doe
+
+attributes:
+customer_name (John Doe)
+payment_type (Cash)
+loyalty_discount (false)
+customer_payment_total (51.18)
+
+Methods:
+payment (45.68)
+loyalty (0)
+tips (5.50)
+customer_food_credit (0)

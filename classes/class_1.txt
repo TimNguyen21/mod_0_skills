@@ -4,7 +4,7 @@ Attributes:
 customer_name (String)
 payment_type (String)
 loyalty_discount (boolean)
-customer_tip (float)
+customer_payment_total (float)
 
 Methods:
 payment (determine how much the customer is paying for service)
