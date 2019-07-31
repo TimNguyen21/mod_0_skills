@@ -2,7 +2,7 @@ Customer: John Doe
 
 attributes:
 customer_name (John Doe)
-payment_type (Cash)
+payment_type (cash)
 loyalty_discount (false)
 customer_payment_total (51.18)
 
