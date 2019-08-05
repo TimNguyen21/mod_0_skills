@@ -9,7 +9,7 @@ food_size (string)
 food_tax (float)
 
 Methods:
-total_price (Sum of food purchased plus tax)
-price_of_entree (Determine food type and size)
-gluten_free (Determine if food is gluten free based on the result of gluten attribute)
-hot_or_cold_entree (Determine if food is hot or cold based on food_type)
+calculate_total_price (Sum of food purchased plus tax)
+calculate_price_of_entree (Determine food type and size)
+determine_gluten_free (Determine if food is gluten free based on the result of gluten attribute)
+determine_hot_or_cold_entree (Determine if food is hot or cold based on food_type)

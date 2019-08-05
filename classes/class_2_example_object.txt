@@ -9,7 +9,7 @@ food_size (medium)
 food_tax (1.90)
 
 Methods:
-total_price (17.85)
-price_of_entree (15.95)
-gluten_free (no)
-hot_or_cold_entree (hot)
+calculate_total_price (17.85)
+calculate_price_of_entree (15.95)
+determine_gluten_free (false)
+determine_hot_or_cold_entree (hot)
